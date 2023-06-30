@@ -13,7 +13,7 @@ Welcome to the Eiffel Tower Tour Website repository! This Next.js website allows
 
 To get started with the Eiffel Tower Tour Website, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/eiffel-tower-tour-website.git`
+1. Clone this repository: `git clone https://github.com/LCLY/eiffel-tower-tour-website.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. Access the website locally at `http://localhost:3000`
