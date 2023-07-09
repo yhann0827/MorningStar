@@ -14,17 +14,14 @@ export default function LocaleSwitcher() {
   };
 
   return (
-    <div>
-      <p>Locale switcher:</p>
-      <ul>
-        {i18n.locales.map(locale => {
-          return (
-            <li key={locale}>
-              <Link href={redirectedPathName(locale)}>{locale}</Link>
-            </li>
-          );
-        })}
-      </ul>
+    <div className="flex">
+      {i18n.locales.map(locale => {
+        return (
+          <div className="uppercase mr-1 pr-1 border-r-2 border-solid border-gray-400 last:border-r-0" key={locale}>
+            <Link href={redirectedPathName(locale)}>{locale}</Link>
+          </div>
+        );
+      })}
     </div>
   );
 }

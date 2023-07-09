@@ -20,7 +20,9 @@ export default function LocaleSwitcher() {
         {i18n.locales.map((locale: any) => {
           return (
             <li key={locale}>
-              <Link href={redirectedPathName(locale)}>{locale}</Link>
+              <Link className="uppercase" href={redirectedPathName(locale)}>
+                {locale}
+              </Link>
             </li>
           );
         })}

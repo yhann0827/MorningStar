@@ -1,9 +1,6 @@
 {
-  "server-component": {
-    "welcome": "Welcome"
-  },
-  "counter": {
-    "increment": "Increment",
-    "decrement": "Decrement"
+  "homepage": {
+    "main_title": "GET YOUR EIFFEL TOWER PARIS <br/>TICKETS & TOURS HERE",
+    "main_subtitle": "MorningStar is a trusted partner authorised by Eiffel Tower Paris monument."
   }
 }
