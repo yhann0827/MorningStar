@@ -2,5 +2,15 @@
   "homepage": {
     "main_title": "OBTENEZ VOS BILLETS ET VISITES<br/> DE LA TOUR EIFFEL À PARIS ICI",
     "main_subtitle": "MorningStar est un partenaire de confiance autorisé par le monument de la Tour Eiffel à Paris."
+  },
+  "card": {
+    "available": "Disponible le mercredi",
+    "guided_tour": "Visite guidée",
+    "title": "Tour Eiffel : Visite guidée en petit groupe du sommet",
+    "duration": "Durée",
+    "guide": "Guide en direct en anglais",
+    "group": "Groupe de maximum 10 personnes",
+    "show_more": "Voir plus",
+    "show_less": "Voir moins"
   }
 }

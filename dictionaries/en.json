@@ -2,5 +2,15 @@
   "homepage": {
     "main_title": "GET YOUR EIFFEL TOWER PARIS <br/>TICKETS & TOURS HERE",
     "main_subtitle": "MorningStar is a trusted partner authorised by Eiffel Tower Paris monument."
+  },
+  "card": {
+    "available": "Available Wednesday",
+    "guided_tour": "Guided Tour",
+    "title": "Eiffel Tower: Small-group Guided Visit of the Summit",
+    "duration": "Duration",
+    "guide": "Live guide in English",
+    "group": "Group of max. 10 people",
+    "show_more": "Show More",
+    "show_less": "Show Less"
   }
 }
