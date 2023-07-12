@@ -41,6 +41,10 @@ const questionLists: QuestionLists[] = [
     ques: "Q: How much is a ticket to Eiffel Tower summit?",
     ans: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
   },
+  {
+    ques: "Q: What is the cancellation policy for Eiffel Tower tickets?",
+    ans: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat",
+  },
 ];
 
 export default function QuestionList(): JSX.Element {
