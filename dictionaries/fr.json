@@ -1,7 +1,9 @@
 {
   "homepage": {
     "main_title": "OBTENEZ VOS BILLETS ET VISITES<br/> DE LA TOUR EIFFEL À PARIS ICI",
-    "main_subtitle": "MorningStar est un partenaire de confiance autorisé par le monument de la Tour Eiffel à Paris."
+    "main_subtitle": "MorningStar est un partenaire de confiance autorisé par le monument de la Tour Eiffel à Paris.",
+    "miss_chance": "Book NOW or you gonna miss the chance to visit Eiffel Tower",
+    "conquered": "Don’t tell me you’ve visited Paris if you haven’t conquered Eiffel Tower"
   },
   "card": {
     "available": "Disponible le mercredi",
